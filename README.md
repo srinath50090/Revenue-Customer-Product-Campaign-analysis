@@ -333,7 +333,7 @@ If you are hiring for an entry-level analytics role or would like to discuss my 
 
 **Other Projects**
 
-* [Marketing Performance Analytics](https://github.com/srinath50090/Revenue-Customer-Product-Campaign-analysis)
+* [Marketing Performance Analytics](https://github.com/srinath50090/Marketing-Performance-Analysis)
 
 * [Ecommerce, Customers, Products & Campaign Analytics using SQL](https://github.com/srinath50090/Marketing_Ecommerce_Analytics_using_SQL)
 
