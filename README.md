@@ -187,7 +187,7 @@ Analyzes revenue, orders, customers, AOV, ARPC, and refund rate across time, cou
 
 **Purpose:** Identify revenue drivers and detect where performance is weakening.
 
-![Revenue Intelligence Dashboard](Screenshots/revenue_dashboard.png)
+![Revenue Intelligence Dashboard](Dashboard%20Images/01.png)
 
 ### Customer Intelligence Dashboard
 
