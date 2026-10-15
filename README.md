@@ -187,7 +187,11 @@ Analyzes revenue, orders, customers, AOV, ARPC, and refund rate across time, cou
 
 **Purpose:** Identify revenue drivers and detect where performance is weakening.
 
-![Revenue Intelligence Dashboard](Dashboard%20Images/01.png)
+![Revenue Intelligence Dashboard 1](Dashboard%20Images/01.png)
+
+![Revenue Intelligence Dashboard 2](Dashboard%20Images/02.png)
+
+![Revenue Intelligence Dashboard 3](Dashboard%20Images/03.png)
 
 ### Customer Intelligence Dashboard
 
@@ -195,7 +199,7 @@ Analyzes customer purchasing activity, returning customers, purchase frequency, 
 
 **Purpose:** Identify customer segments with declining purchasing activity or potential retention opportunities.
 
-![Customer Intelligence Dashboard](Screenshots/customer_dashboard.png)
+![Customer Intelligence Dashboard](Dashboard%20Images/04.png)
 
 ### Product Performance Dashboard
 
@@ -203,7 +207,11 @@ Analyzes category revenue, units sold, top and bottom products, brand performanc
 
 **Purpose:** Identify products with significant revenue contributions or declines.
 
-![Product Performance Dashboard](Screenshots/product_dashboard.png)
+![Product Performance Dashboard 1](Dashboard%20Images/05.png)
+
+![Product Performance Dashboard 2](Dashboard%20Images/06.png)
+
+![Product Performance Dashboard 3](Dashboard%20Images/07.png)
 
 ### Campaign Performance Dashboard
 
@@ -211,7 +219,7 @@ Analyzes campaign revenue, orders, customers, conversion rates, event funnels, a
 
 **Purpose:** Identify marketing channels and funnel stages that require further investigation.
 
-![Campaign Performance Dashboard](Screenshots/campaign_dashboard.png)
+![Campaign Performance Dashboard](Dashboard%20Images/08.png)
 
 ### Business Insights & Recommendations
 
@@ -219,7 +227,11 @@ Combines findings from the analytical dashboards to investigate the US revenue d
 
 **Purpose:** Convert dashboard findings into a focused business investigation.
 
-![Business Insights](Screenshots/business_insights.png)
+![Business Insights 1](Dashboard%20Images/09.png)
+
+![Business Insights 2](Dashboard%20Images/10.png)
+
+![Business Insights 3](Dashboard%20Images/11.png)
 
 ## 7. Technical Implementation
 
@@ -283,7 +295,6 @@ The analysis identifies priorities for further investigation; the actual revenue
 
 - **Power BI Dashboard:** [Add your PBIX file or repository link]
 - **SQL Scripts:** [Add your SQL folder link]
-- **Dashboard Screenshots:** [Add your screenshots folder link]
 - **Dataset Source:** [Add your dataset source link]
 
 ---
