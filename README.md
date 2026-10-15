@@ -293,9 +293,15 @@ The analysis identifies priorities for further investigation; the actual revenue
 
 ## 10. Explore the Project
 
-- **Power BI Dashboard:** [Add your PBIX file or repository link]
-- **SQL Scripts:** [Add your SQL folder link]
-- **Dataset Source:** [Add your dataset source link]
+- **Power BI Dashboard:** [PBIX file](https://drive.google.com/file/d/1R1sdwqiAeOchIH2xXpHpEhjIW2HEmCHq/view?usp=drive_link)
+- **SQL Scripts:**
+
+[DDL's](SQL/01.DDL's.sql)
+
+[Data Quality checks](SQL/02.Data_quality_checks.sql)
+
+[Data Cleaning](SQL/03.Data_cleaning.sql)
+
 
 ---
 
