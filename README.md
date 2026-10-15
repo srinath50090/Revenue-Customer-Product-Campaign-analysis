@@ -179,6 +179,8 @@ Investigate:
 
 ## 6. Power BI Dashboards
 
+**[Download Interactive Power BI Report](https://drive.google.com/file/d/1R1sdwqiAeOchIH2xXpHpEhjIW2HEmCHq/view?usp=drive_link)
+
 The project contains five analytical pages, each supporting a different stage of the business investigation.
 
 ### Revenue Intelligence Dashboard
@@ -293,8 +295,9 @@ The analysis identifies priorities for further investigation; the actual revenue
 
 ## 10. Explore the Project
 
-- **Power BI Dashboard:** [PBIX file](https://drive.google.com/file/d/1R1sdwqiAeOchIH2xXpHpEhjIW2HEmCHq/view?usp=drive_link)
-- **SQL Scripts:**
+[Open or download the PBIX file](https://drive.google.com/file/d/1R1sdwqiAeOchIH2xXpHpEhjIW2HEmCHq/view?usp=drive_link)
+
+**SQL Scripts:**
 
 [DDL's](SQL/01.DDL's.sql)
 
