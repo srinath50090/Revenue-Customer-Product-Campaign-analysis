@@ -289,3 +289,20 @@ The analysis identifies priorities for further investigation; the actual revenue
 ---
 
 **Skills demonstrated:** SQL · Power BI · DAX · Power Query · Data Modeling · Business Analytics · Revenue Analysis · Customer Segmentation · Product Analytics · Marketing Analytics · Root-Cause Investigation · Business Recommendations
+
+---
+
+## 🤝 Open to Internship and Full-Time Opportunities
+
+I am actively seeking **Data Analyst, BI Analyst, Reporting Analyst, Business Analyst, and other data-related internship or full-time opportunities**.
+
+I am eager to contribute my SQL, Power BI, and analytical skills to a team, solve business problems using data, and continue learning through practical industry experience.
+
+If you are hiring for an entry-level analytics role or would like to discuss my project, I would be happy to connect.
+
+[Linkedin](https://www.linkedin.com/in/srinathvenkatachalam/)
+
+[Github](https://github.com/srinath50090/)
+
+**Email** : srinath50090@gmail.com
+
